@@ -23,6 +23,8 @@ The dashboard focuses on:
 📅 Interactive Date filtering
 
 Screenshot 2026-09-25 145323
+<img width="887" height="495" alt="Screenshot 2026-09-27 140037" src="https://github.com/user-attachments/assets/495a4840-cd4f-4bda-9c6b-e349db2de0b1" />
+
 The report contains a single dashboard page with cards, charts, and a date slicer.
 
 💰 Close Price
